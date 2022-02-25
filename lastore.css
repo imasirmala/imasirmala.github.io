@@ -1,0 +1,35 @@
+*{
+	padding: 0px; 
+	margin: 0px;
+}
+
+.header{
+	background: lightpink;
+}
+
+.wrapper{
+	width: 1050px;
+}
+
+.la-content{
+	background: antiquewhite;
+}
+
+label{
+	margin-left:20px;
+}
+
+table{
+	float: right;
+	margin-right: 20px;
+}
+
+img{
+	float: left;
+	margin-left: 370px;
+}
+
+#div_copyright{
+	clear: both;
+	margin-left: 450px;
+}
